@@ -1,0 +1,10 @@
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar el archivo .env
+.env
+
+# Ignorar otros archivos temporales
+.DS_Store
+*.log
+config/myFirebaseKey.json
